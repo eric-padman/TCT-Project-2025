@@ -1,0 +1,5 @@
+TCT-DP Assessment
+
+The ML model examines the uploaded TCT-DP form and shows two things: 
+(a) Confidence Score (%): How confident the ML model is that the uploaded image corresponds to each category. 
+(b) Weighted Score (0-5): A single, overall score that indicates the individual's creative potential relative to a sample of other 10-16 year olds.

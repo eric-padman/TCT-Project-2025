@@ -1,0 +1,12 @@
+Function Description
+
+In the side menu, you can:
+1. Select a single image for classification, the image and result will be displayed on the right-hand side of this window, the displayed image will be shown in a resolution of 600x600, and the original image will not be modified. The program also automatically classifies and saves the result in the 'autosave_results.csv' file.
+
+2. Select a folder of images for batch processing, the progress will be shown in the message window, and the classification outcomes will be saved in the 'autosave_results.csv' file.
+
+3. The 'autosave_results.csv' file will be overwritten after each run, click the 'Save Result' button will save a copy of the latest result with a timestamp as the file name, located under the 'results' folder. Alternatively, hit the 'Save As' button to choose a desired location to save a copy of the result.
+
+4. Check or Uncheck the crop image function. Which will automatically crop the tile at the top of the images and the copyright information at the bottom of the images before they are classified. Please ensure all the images are orientated upright for better accuracy of the classification outcome. DO NOT select this function if the input images only contain the drawing.
+
+5.Change the appearance mode and the UI scaling of this GUI.

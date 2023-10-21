@@ -1,0 +1,6 @@
+Automatic Test Assessment (10-16 Year Olds)
+
+The TCT-DP is a figural creativity test that provides a holistic assessment of individual creative potential. Individuals complete the test by drawing on a pre-defined template. The test is assessed against a range of specific criteria, resulting in single classification that places individuals into one of 5 classes (from Far Below Average to Far Above Average).
+Using a Machine Learning (ML) model, trained to assess the TCT-DP, it is now possible to obtain rapid feedback on TCT-DP results. Simply upload a scan of your completed TCT-DP form (saved as a *.jpg or *.png, with TBD resolution) and the model will provide an assessment of the creativity level.
+
+Select crop image to automatically crop the tile and Copyright information of the image.
