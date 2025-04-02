@@ -1,4 +1,5 @@
 import customtkinter
+# This is a UI-Library
 from tkinter import filedialog
 from PIL import Image
 
@@ -6,7 +7,9 @@ import pandas as pd
 import numpy as np
 # import tensorflow as tf
 from tensorflow import lite
+# this imports the ML library
 import cv2
+# this is a computer vision library 
 from pathlib import Path
 from datetime import datetime
 
