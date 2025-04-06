@@ -1,7 +1,9 @@
 import customtkinter
 # This is a UI-Library
 from tkinter import filedialog
-from PIL import Image
+#from PIL import Image
+#PIL is a legacy package replaced by pillow
+from pillow import Image
 
 import pandas as pd 
 import numpy as np
